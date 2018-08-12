@@ -1,0 +1,1 @@
+A set of algorithms and solutions to test thegeneral programming knowledge of new hires.
