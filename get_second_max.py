@@ -3,6 +3,7 @@
 Created on Sun Aug 12 19:05:40 2018
 
 @author: Midori
+@description: Write a program which finds the second max element in a list.
 """
 
 def get_second_max(arr):
